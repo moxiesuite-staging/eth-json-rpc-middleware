@@ -1,5 +1,5 @@
 {
-  "name": "eth-json-rpc-middleware",
+  "name": "@trufflesuite/eth-json-rpc-middleware",
   "version": "4.4.1",
   "main": "block-ref.js",
   "directories": {
@@ -36,12 +36,14 @@
     "safe-event-emitter": "^1.0.1"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/kumavis/eth-json-rpc-middleware.git"
+    "url": "https://github.com/trufflesuite/eth-json-rpc-middleware"
   },
   "bugs": {
-    "url": "https://github.com/kumavis/eth-json-rpc-middleware/issues"
+    "url": "https://github.com/trufflesuite/eth-json-rpc-middleware/issues"
   },
   "homepage": "https://github.com/kumavis/eth-json-rpc-middleware#readme",
-  "description": ""
+  "description": "Fork of https://github.com/MetaMask/eth-json-rpc-middleware",
+  "publishConfig": {
+    "access": "public"
+  }
 }
