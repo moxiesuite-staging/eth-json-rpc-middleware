@@ -1,6 +1,6 @@
 {
   "name": "@trufflesuite/eth-json-rpc-middleware",
-  "version": "4.4.1",
+  "version": "4.4.2-1",
   "main": "block-ref.js",
   "directories": {
     "test": "test"
